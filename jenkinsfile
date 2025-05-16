@@ -8,7 +8,7 @@ pipeline {
             // Remove or comment out this block
             // post {
             //     always {
-            //         mail to: 'ramyasrikodem@gmail.com',
+            //         mail to: 'sanjanareddy2912@gmail.com',
             //              subject: 'Build Status Email',
             //              body: 'Build log attached'
             //     }
